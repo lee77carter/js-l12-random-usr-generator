@@ -12,11 +12,12 @@ h1 {
   padding: 0.5em;
   font-size: 2.5em;
   font-family: "Julius Sans One", sans-serif;
+  color:lightslategrey
 }
 
 img {
   border-radius: 50%;
-  border: 3px solid steelblue;
+  border: 3px solid #943fd7;
 }
 
 .random-peeps {
@@ -28,10 +29,10 @@ img {
 .random-peeps div {
   flex-basis: 250px;
   text-align: center;
-  padding: 0.5em;
-  border: 1px solid steelblue;
-  background-color: #c6f6f6;
-  margin: 1em;
+  padding: 4.5em;
+  border: 1px solid #943fd7;
+  background-color: #e9beeb;
+  margin: 8em;
   -webkit-box-shadow: 5px 5px 8px 5px rgba(0, 0, 0, 0.377);
   box-shadow: 5px 5px 18px 5px rgba(0, 0, 0, 0.377);
 }
