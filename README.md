@@ -1,3 +1,9 @@
-# js-l12-practice-exercise-01-main
+# Random User Generator
 
-Creating a random user generator!
+ ![Random User Generator](img/user-gen-snap.png)
+
+
+## Usage
+This application autonomously generates random user profiles
+
+<a href="https://lee77carter.github.io/js-l12-random-usr-generator/">Visit Random User Generator Here!</a>  
